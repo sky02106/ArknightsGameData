@@ -123,6 +123,16 @@
         "obtainApproach": "特殊方式获得"
       },
       {
+        "avatarId": "avatar_special_12",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 12,
+        "avatarIdDesc": "购买礼包获得\\n“目的地”",
+        "avatarItemName": "“目的地”",
+        "avatarItemDesc": "跋涉的终点，眺望的起点。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得"
+      },
+      {
         "avatarId": "avatar_activity_OF",
         "avatarType": "ACTIVITY",
         "avatarIdSort": 1,
@@ -423,6 +433,36 @@
         "obtainApproach": "在集成战略模式中获得"
       },
       {
+        "avatarId": "avatar_activity_DH",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 32,
+        "avatarIdDesc": "【多索雷斯假日】记录修复\\n“多索雷斯假日”",
+        "avatarItemName": "“多索雷斯假日”",
+        "avatarItemDesc": "浪花不休，假日不止。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "记录修复获得"
+      },
+      {
+        "avatarId": "avatar_activity_TB",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 33,
+        "avatarIdDesc": "【阴云火花】记录修复\\n“阴云火花”",
+        "avatarItemName": "“阴云火花”",
+        "avatarItemDesc": "驱散一时的黑暗，这绝非终点。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "记录修复获得"
+      },
+      {
+        "avatarId": "avatar_activity_NL",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 34,
+        "avatarIdDesc": "【长夜临光】记录修复\\n“长夜临光”",
+        "avatarItemName": "“长夜临光”",
+        "avatarItemDesc": "剑枪刺破黑夜，大地静待曙光。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "记录修复获得"
+      },
+      {
         "avatarId": "avatar_def_01",
         "avatarType": "DEFAULT",
         "avatarIdSort": 1,
@@ -595,7 +635,8 @@
           "avatar_special_08",
           "avatar_special_09",
           "avatar_special_10",
-          "avatar_special_11"
+          "avatar_special_11",
+          "avatar_special_12"
         ]
       },
       "ACTIVITY": {
@@ -631,7 +672,10 @@
           "avatar_activity_WD",
           "avatar_activity_PS",
           "avatar_activity_UT",
-          "avatar_activity_RL3_1"
+          "avatar_activity_RL3_1",
+          "avatar_activity_DH",
+          "avatar_activity_TB",
+          "avatar_activity_NL"
         ]
       },
       "DEFAULT": {
@@ -659,6 +703,7 @@
   },
   "homeBackgroundData": {
     "defaultBackgroundId": "bg_rhodes_day",
+    "defaultThemeId": "tm_rhodes_day",
     "homeBgDataList": [
       {
         "bgId": "bg_rhodes_day",
@@ -840,6 +885,20 @@
         ]
       }
     ],
-    "defaultBgMusicId": "music_bg_default"
+    "themeList": [
+      {
+        "id": "tm_rhodes_day",
+        "type": "MAINLINE",
+        "sortId": 1,
+        "startTime": -1,
+        "tmName": "日间",
+        "tmDes": "阳光洒落窗台，与你为伴。",
+        "tmUsage": "在不变动功能的情况下，对PRTS界面进行了重新设计。",
+        "obtainApproach": "默认投放",
+        "unlockDesList": []
+      }
+    ],
+    "defaultBgMusicId": "music_bg_default",
+    "themeStartTime": 1696104000
   }
 }

@@ -121,7 +121,8 @@
       "char_4004_pudd"
     ],
     "char_235_jesica": [
-      "char_235_jesica"
+      "char_235_jesica",
+      "char_1034_jesca2"
     ],
     "char_126_shotst": [
       "char_126_shotst"
@@ -275,6 +276,9 @@
     "char_349_chiave": [
       "char_349_chiave"
     ],
+    "char_488_buildr": [
+      "char_488_buildr"
+    ],
     "char_513_apionr": [
       "char_513_apionr"
     ],
@@ -298,10 +302,14 @@
       "char_4017_puzzle"
     ],
     "char_308_swire": [
-      "char_308_swire"
+      "char_308_swire",
+      "char_1033_swire2"
     ],
     "char_265_sophia": [
       "char_265_sophia"
+    ],
+    "char_4106_bryota": [
+      "char_4106_bryota"
     ],
     "char_106_franka": [
       "char_106_franka"
@@ -571,6 +579,9 @@
     "char_4043_erato": [
       "char_4043_erato"
     ],
+    "char_4104_coldst": [
+      "char_4104_coldst"
+    ],
     "char_4015_spuria": [
       "char_4015_spuria"
     ],
@@ -579,6 +590,9 @@
     ],
     "char_383_snsant": [
       "char_383_snsant"
+    ],
+    "char_4105_almond": [
+      "char_4105_almond"
     ],
     "char_174_slbell": [
       "char_174_slbell"
@@ -704,7 +718,8 @@
       "char_213_mostma"
     ],
     "char_180_amgoat": [
-      "char_180_amgoat"
+      "char_180_amgoat",
+      "char_1016_agoat2"
     ],
     "char_2013_cerber": [
       "char_2013_cerber"

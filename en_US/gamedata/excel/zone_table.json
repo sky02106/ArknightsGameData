@@ -572,6 +572,45 @@
       "lockedText": null,
       "canPreview": false
     },
+    "act24side_zone1": {
+      "zoneID": "act24side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Soubo Mountains",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act24side_zone2": {
+      "zoneID": "act24side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Commeowssion Counter",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act14mini_zone1": {
+      "zoneID": "act14mini_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "What To Do With This Sword",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
     "act23side_zone1": {
       "zoneID": "act23side_zone1",
       "zoneIndex": 0,
@@ -643,6 +682,19 @@
       "type": "ACTIVITY",
       "zoneNameFirst": null,
       "zoneNameSecond": "Ashes of Memories",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act2bossrush_zone1": {
+      "zoneID": "act2bossrush_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Threat Incoming",
       "zoneNameTitleCurrent": null,
       "zoneNameTitleUnCurrent": null,
       "zoneNameTitleEx": null,
@@ -2584,6 +2636,18 @@
     }
   },
   "zoneValidInfo": {
+    "act24side_zone1": {
+      "startTs": 1694088000,
+      "endTs": 1695293999
+    },
+    "act24side_zone2": {
+      "startTs": 1694732400,
+      "endTs": 1695293999
+    },
+    "act14mini_zone1": {
+      "startTs": 1692723600,
+      "endTs": 1693306799
+    },
     "act23side_zone1": {
       "startTs": 1690563600,
       "endTs": 1691751599
@@ -2607,6 +2671,10 @@
     "act22side_zone2": {
       "startTs": 1689894000,
       "endTs": 1690455599
+    },
+    "act2bossrush_zone1": {
+      "startTs": 1693501200,
+      "endTs": 1694084399
     },
     "act21side_zone1": {
       "startTs": 1684843200,
